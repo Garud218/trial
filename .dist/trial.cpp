@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main()
-{int a=10;
-int b=5;
+{int a=600;
+int b=100;
 std::cout<<a+b;}}
